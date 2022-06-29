@@ -2,7 +2,7 @@
 
 This project aims at creating a car image generator which can be conditionned by a continuous feature like the sportivity. This was made using [CcGan Paper](https://openreview.net/pdf?id=PrzjugOsDeE) and [CcGan Repository](https://github.com/UBCDingXin/improved_CcGAN).
 
-
+<br/><br/>
 
 How to use:
 
@@ -16,7 +16,7 @@ How to use:
 
 -Run ccGan(dim).ipynb to create your generator with the option you chose
 
-
+<br/><br/>
 
 Notes:
 
