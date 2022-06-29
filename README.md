@@ -4,7 +4,7 @@ This project aims at creating a car image generator which can be conditionned by
 
 <br/><br/>
 
-#How to use:
+# How to use:
 
 -Download this [Dataset](https://www.kaggle.com/datasets/prondeau/the-car-connection-picture-dataset)
 
@@ -18,14 +18,14 @@ This project aims at creating a car image generator which can be conditionned by
 
 <br/><br/>
 
-#Notes:
+# Notes:
 
 -the color labels are only for the no_background dataset
 -the y2h network given are only for 128*128 images
 
 <br/><br/>
 
-#Obtained results:
+# Obtained results:
 
 ![Example of cars generated](https://github.com/clementelliker/CarGenerator/blob/main/images/ex64.PNG?raw=true "Title")
 <br/>
