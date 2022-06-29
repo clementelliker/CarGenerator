@@ -27,6 +27,6 @@ Notes:
 
 Obtained results:
 
-![Example of cars generated with RPM (sportivity) conditionning](https://github.com/clementelliker/CarGenerator/blob/main/images/ex_gen_RPM.PNG?raw=true "Title")
+![Example of cars generated](https://github.com/clementelliker/CarGenerator/blob/main/images/ex64.PNG?raw=true "Title")
 <br/>
-![Example of cars generated with luminosity conditionning](https://github.com/clementelliker/CarGenerator/blob/main/images/ex_gen_luminosity.PNG?raw=true "Title")
+A collumn corresponds to the same generating seed with different conditionnal values (0 to 1 top to bottom). On the left conditionned by RPM and on the right conditionned by luminosity.
