@@ -1,10 +1,10 @@
-## CarGenerator
+# CarGenerator
 
 This project aims at creating a car image generator which can be conditionned by a continuous feature like the sportivity. This was made using [CcGan Paper](https://openreview.net/pdf?id=PrzjugOsDeE) and [CcGan Repository](https://github.com/UBCDingXin/improved_CcGAN).
 
 <br/><br/>
 
-# How to use:
+## How to use:
 
 -Download this [Dataset](https://www.kaggle.com/datasets/prondeau/the-car-connection-picture-dataset)
 
@@ -18,7 +18,7 @@ This project aims at creating a car image generator which can be conditionned by
 
 <br/><br/>
 
-# Notes:
+## Notes:
 
 -the color labels are only for the no_background dataset
 
@@ -28,7 +28,7 @@ This project aims at creating a car image generator which can be conditionned by
 
 <br/><br/>
 
-# Obtained results:
+## Obtained results:
 
 ![Example of cars generated](https://github.com/clementelliker/CarGenerator/blob/main/images/ex64.PNG?raw=true "Title")
 <br/>
