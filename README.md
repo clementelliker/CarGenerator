@@ -28,4 +28,5 @@ Notes:
 Obtained results:
 
 ![Example of cars generated with RPM (sportivity) conditionning](https://github.com/clementelliker/CarGenerator/blob/main/images/ex_gen_RPM.PNG?raw=true "Title")
+<br/>
 ![Example of cars generated with luminosity conditionning](https://github.com/clementelliker/CarGenerator/blob/main/images/ex_gen_color.PNG?raw=true "Title")
