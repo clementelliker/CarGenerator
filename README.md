@@ -21,6 +21,7 @@ This project aims at creating a car image generator which can be conditionned by
 # Notes:
 
 -the color labels are only for the no_background dataset
+
 -the y2h network given are only for 128*128 images
 
 <br/><br/>
