@@ -23,7 +23,10 @@ Notes:
 -the color labels are only for the no_background dataset
 -the y2h network given are only for 128*128 images
 
-
+<br/><br/>
 
 Obtained results:
 
+![Example of cars generated with RPM (sportivity) conditionning](https://github.com/clementelliker/CarGenerator/blob/main/images/ex_gen_RPM.PNG?raw=true "Title")
+<br/>
+![Example of cars generated with luminosity conditionning](https://github.com/clementelliker/CarGenerator/blob/main/images/ex_gen_luminosity.PNG?raw=true "Title")
