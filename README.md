@@ -22,7 +22,9 @@ This project aims at creating a car image generator which can be conditionned by
 
 -the color labels are only for the no_background dataset
 
--the y2h network given are only for 128*128 images
+-the ccGan64_SA.ipynb uses the self attention mechanism
+
+-I do not recommend to use the Different Augmentation because it is harder to get results and there is no noticable improvement
 
 <br/><br/>
 
