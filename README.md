@@ -14,7 +14,7 @@ How to use:
 
 -Optionnal: if you want to generate images with other labels than color/RPM use the embeding(_nobg).ipynb to get the label projection model y2h
 
--Run ccGan(dim).ipynb to create your generator with the option you chose
+-Run ccGan(dim).ipynb to start your training with the option you chose
 
 <br/><br/>
 
