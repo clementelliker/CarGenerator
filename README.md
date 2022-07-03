@@ -24,7 +24,7 @@ This project aims at creating a car image generator which can be conditionned by
 
 -the ccGan64_SA.ipynb uses the self attention mechanism
 
--I do not recommend to use the Different Augmentation because it is harder to get results and there is no noticable improvement
+-I do not recommend to use the Differential Augmentation because it is harder to get results and there are no noticable improvement
 
 <br/><br/>
 
